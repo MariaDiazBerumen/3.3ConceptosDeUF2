@@ -35,7 +35,7 @@ Diaz Berumen Maria de los Angeles 21210368
     <p align=left>
 
 /*
- * Nombre del Archivo: main.c
+ * Nombre del Archivo: holaMundo.c
  * Autor:   Maria De los Angeles Diaz Berumen 
  * Correo:  l21210368@tectijuana.edu.mx
  * Fecha:   24/octubre/2023
@@ -65,7 +65,7 @@ int main() {
 
 *************ASCIITABLE
 /*
- * Nombre del Archivo: main.c
+ * Nombre del Archivo: ASCCIITABLE.c
  * Autor:   Maria De los Angeles Diaz Berumen 
  * Correo:  l21210368@tectijuana.edu.mx
  * Fecha:   24/octubre/2023
